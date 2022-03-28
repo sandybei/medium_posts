@@ -3,7 +3,6 @@ from torch import nn
 from torch.utils.data import DataLoader
 from torchvision import datasets
 from torchvision.transforms import ToTensor
-import pytorch_lightning as pl
 
 
 # Download training data from open datasets.
